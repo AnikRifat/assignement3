@@ -1,0 +1,26 @@
+.bg-gr{
+    background-color: #264653;
+}
+.text-orange{
+    color: #ee4318;
+}
+.btn-orange {
+    background: #E76F51;
+    color: #fff;
+}
+.btn-orange:hover {
+    background: #ee4318;
+    color: #fff;
+}
+img.image-graycycle {
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+    filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+  }
+  img.card-img-top.happy-cl {
+    width: 10rem;
+    height: 10rem;
+    margin: 0px auto;
+    padding: 1rem;
+    border-radius: 50%;
+}
